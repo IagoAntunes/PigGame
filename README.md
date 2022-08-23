@@ -29,7 +29,7 @@
 - [x] Rodar Dados
 - [x] Passar Rodada
 - [x] Exibir Pontos
-
+- [x] Definir Ganhador
 
 ---
 
